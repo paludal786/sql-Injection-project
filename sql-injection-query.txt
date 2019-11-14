@@ -1,0 +1,5 @@
+given below sql injection list to check 
+
+' or 1=1; drop table users;--
+
+' or 1=1;--
